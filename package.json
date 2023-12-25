@@ -1,7 +1,6 @@
 {
   "name": "garden-vue",
   "version": "0.0.0",
-  "homepage": "https://wheelyhog.github.io/Garden-Vue/dist/",
   "private": true,
   "scripts": {
     "dev": "vite",

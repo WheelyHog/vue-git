@@ -29,8 +29,8 @@ console.log(products)
           <div class="product-description">
             <h4 class="product-title">{{ item.title }}</h4>
             <div class="price-box">
-              <h2 class="discount">$ {{ item.discount_price }}</h2>
-              <h3 class="price">$ {{ item.price }}</h3>
+              <h2 class="discount">$ {{ item.discount_price ? item.discount_price : item.price }}</h2>
+              <h3 class="price">{{!item.discount_price ? "$" : ""}} {{ !item.discount_price ? item.price : ""}}</h3>
             </div>
             <button class="add">
               Add to Cart

@@ -133,5 +133,7 @@ const categoriesToShow = store.categoriesToShow
   object-fit: cover;
   border-radius: 3px;
 }
-
+.category-desc h3{
+  text-align: center;
+}
 </style>
