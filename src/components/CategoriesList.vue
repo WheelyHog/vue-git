@@ -12,10 +12,10 @@ const categoriesToShow = store.categoriesToShow
       <div class="left">
         <h2>Plants will make your life better</h2>
         <p>Create incredible plant design for your offices or apartments. Add freshness to your new ideas.</p>
-        <button class="see-all">
+        <router-link to="/categories" class="see-all">
           See All Categories
           <span class="material-symbols-outlined">expand_circle_right</span>
-        </button>
+        </router-link>
       </div>
       <div class="right">
         <img src="../assets/img/mint.png" alt="">
@@ -68,7 +68,7 @@ const categoriesToShow = store.categoriesToShow
   font-size: 18px;
 }
 
-.left button {
+.left .see-all {
   padding: 20px;
   border: none;
   border-radius: 3px;
@@ -85,7 +85,7 @@ const categoriesToShow = store.categoriesToShow
   gap: 10px;
 }
 
-.left button:hover {
+.left .see-all:hover {
   background-color: #036701;
 }
 

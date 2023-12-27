@@ -2,7 +2,7 @@ export const menu = [
     {
         id: 1,
         title: "Home",
-        path: "/"
+        path: "/home"
     },
     {
         id: 2,

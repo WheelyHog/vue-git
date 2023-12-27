@@ -11,7 +11,7 @@ const setActiveId = (id)=>{
 
 <template>
   <div class="top">
-    <router-link to="/">
+    <router-link to="/home">
       <div class="logo">
         <img src="../assets/img/logo.png" alt="" class="img-logo">
         <div class="logo-text">
@@ -103,9 +103,22 @@ const setActiveId = (id)=>{
 .menu-item-active span{
   color: #289d25;
 }
+.theme{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 8px;
+  border: 1px solid #036701;
+  border-radius: 20px;
+}
+
 .light-theme {
   cursor: pointer;
   color: #036701;
+  transition: all .3s;
 }
-
+.light-theme:hover{
+  color: #289d25;
+}
 </style>

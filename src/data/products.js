@@ -465,60 +465,71 @@ export const products = [{
   'categoryId': 1
 }, {
   'id': 51,
-  'title': 'Деготь березовый Экстра 80мл',
+  'title': 'Birch tar Extra 80ml',
   'price': 220,
   'discount_price': null,
-  'description': 'Средство для профилактики болезней и борьбы с вредителями сада и огорода\nДёготь берестовый — природное средство от вредителей сада и огорода. Отпугивает и уничтожает: тлю, клещей, бабочек, жуков и даже грызунов. Обеспечивает дезинфицирующий, обеззараживающий, антисептический, противомикробный, антипаразитарный и\nпротивогрибковый эффект.',
+  'description': 'Product for disease prevention and pest control in gardens and vegetable gardens\n' +
+    'Birch bark tar is a natural remedy for garden pests. Repels and destroys: aphids, ticks, butterflies, beetles and even rodents. Provides disinfectant, disinfectant, antiseptic, antimicrobial, antiparasitic and\n' +
+    'antifungal effect.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104823_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 53,
-  'title': 'Тиовит Джет ВДГ 30гр',
+  'title': 'Thiovit Jet VDG 30g',
   'price': 28,
   'discount_price': null,
-  'description': 'Фунгицид для борьбы с оидиумом на винограде и мучнистой росой на плодовых, ягодных и цветочных культурах. Эффективен против клещей (акарицидное действие).',
+  'description': 'Fungicide to combat oidium on grapes and powdery mildew on fruit, berry and flower crops. Effective against ticks (acaricidal effect).',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104114_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 54,
-  'title': 'Хорус 2г препарат от болезней ВДГ',
+  'title': 'Horus 2g drug for EDH diseases',
   'price': 59,
   'discount_price': null,
-  'description': 'Препарат Expert Garden Хорус, ВДГ 2 г -это 3 в 1: системное, защитное и лечебное действие от болезней плодовых культур семечковых (яблоня и груша) и косточковых (вишня, слива, персик, черешня, алыча), растений и овощных культур: морковь, свекла, картофель, капуста, помидоры, баклажаны, лук, перец, томат, виноград, яблони. Средство для защиты от болезней избавит растения от парши, альтернариоза, монилиоза, мучнистой росы, монилиального ожога, плодовой гнили, клястероспориоза, коккомикоза. Быстро воздействует на возбудителя болезни, легко проникает во все ткани растения и защищает изнутри гарантирует длительную и высокоэффективную защиту плодов и листьев, способствует получению здорового урожая плодов сохраняя и улучшая качество урожая. Препарат длительного профилактического и ярко выраженного лечебного действия для защиты семечковых и косточковых культур против широкого круга фитопатогенов. Характеризуется безопасностью применения и иммуностимулирующим действием.\n\nПреимущество Expert Garden Хорус, ВДГ 2 г\n-Высокоэффективен, даже при низких температурах воздуха (от +3 градусов и выше) и при любых погодных условиях (жара, дождь, резкие перепады температуры).\n- Быстро воздействует на возбудителя болезни.\n- Препарат длительного профилактического и лечебного\n- Средство для борьбы с болезнями растений, нетоксично для людей, домашних животных, рыб.\n- Expert Garden Хорус, ВДГ 2 г находится под патентом и не имеет аналогов, также имеется собственная система защиты продукта от подделки, в каждой упаковке находится код, который легко можно проверить путем отправки СМС.\nСостав: ципродинил 2 г водорастворимые гранулы\nПрименение: Для обработки и защиты растений: Яблоня, груша, плодовые косточковые (персик, абрикос, слива, вишня, черешня) от болезней парши, альтернариоза, монилиоза, мучнистой росы, монилиального ожога, плодовой гнили, клястероспориоза, коккомикоза, необходимо произвести опрыскивание в период вегетации, далее по инструкции. Опрыскивание можно производить после обработки растений Престижем, содой, медным купоросом, фито смесями. Расход рабочей жидкости, согласно инструкции.',
+  'description': 'The drug Expert Garden Horus, VDG 2 g is 3 in 1: systemic, protective and therapeutic effect against diseases of pome fruit crops (apple and pear) and stone fruit (cherry, plum, peach, sweet cherry, cherry plum), plants and vegetable crops: carrots , beets, potatoes, cabbage, tomatoes, eggplants, onions, peppers, tomatoes, grapes, apple trees. The disease protection product will relieve plants from scab, Alternaria blight, moniliosis, powdery mildew, monilial blight, fruit rot, clasterosporiosis, and coccomycosis. It quickly affects the causative agent of the disease, easily penetrates all plant tissues and protects from the inside, guarantees long-term and highly effective protection of fruits and leaves, contributes to a healthy harvest of fruits while maintaining and improving the quality of the crop. A drug with long-term preventive and pronounced therapeutic action for the protection of pome and stone fruit crops against a wide range of phytopathogens. It is characterized by safety of use and immunostimulating effect.\n' +
+    '\n' +
+    'Advantage Expert Garden Chorus, VDG 2 g\n' +
+    '-Highly effective, even at low air temperatures (from +3 degrees and above) and in all weather conditions (heat, rain, sudden temperature changes).\n' +
+    '- Quickly affects the causative agent of the disease.\n' +
+    '- Long-term preventive and therapeutic drug\n' +
+    '- A product for combating plant diseases, non-toxic for people, pets, and fish.\n' +
+    '- Expert Garden Horus, VDG 2 g is under a patent and has no analogues, it also has its own system for protecting the product from counterfeiting, each package contains a code that can be easily verified by sending SMS.\n' +
+    'Ingredients: cyprodinil 2 g water-soluble granules\n' +
+    'Application: For the treatment and protection of plants: Apple, pear, stone fruit (peach, apricot, plum, cherry, sweet cherry) from diseases of scab, Alternaria blight, moniliosis, powdery mildew, monilial blight, fruit rot, clasterosporiosis, coccomycosis, it is necessary to spray in growing season, then follow the instructions. Spraying can be done after treating plants with Prestige, soda, copper sulfate, and phyto mixtures. Consumption of working fluid according to the instructions.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104113_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 55,
-  'title': 'Кораген 2мл против колорадского жука на 4 сотки',
+  'title': 'Coragen 2ml against the Colorado potato beetle per 4 acres',
   'price': 147,
   'discount_price': null,
-  'description': 'При покупке Кораген 2мл в ПОДАРОК бесплатно Тиовит Джет 30 гр.',
+  'description': 'When you purchase Coragen 2ml, get a free Thiovit Jet 30 gr as a GIFT.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104112_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 56,
-  'title': 'Кораген 4мл биоинсектицид против жуков и личинок',
+  'title': 'Coragen 4ml bioinsecticide against beetles and larvae',
   'price': 221,
   'discount_price': null,
-  'description': 'При покупке Кораген 4мл в ПОДАРОК бесплатно Тиовит Джет 30 гр.',
+  'description': 'When you purchase Coragen 4ml you get a free Tiovit Jet 30g as a GIFT.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104111_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 57,
-  'title': 'Деманд против тараканов 5мл',
+  'title': 'Demand against cockroaches 5ml',
   'price': 145,
   'discount_price': null,
-  'description': 'Это инновационное средство на водной основе для борьбы с синантропными членистоногими на объектах различной категории.',
+  'description': 'This is an innovative water-based product for combating synanthropic arthropods at objects of various categories.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103240_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
@@ -528,787 +539,828 @@ export const products = [{
   'title': 'Деманд против мух 5мл',
   'price': 145,
   'discount_price': null,
-  'description': 'Это инновационное средство на водной основе для борьбы с синантропными членистоногими на объектах различной категории.',
+  'description': 'This is an innovative water-based product for combating synanthropic arthropods at objects of various categories.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103242_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 59,
-  'title': 'Деманд против муравьев 5мл',
+  'title': 'Demand against ants 5ml',
   'price': 145,
   'discount_price': null,
-  'description': 'Это инновационное средство на водной основе для борьбы с синантропными членистоногими на объектах различной категории.',
+  'description': 'This is an innovative water-based product for combating synanthropic arthropods at objects of various categories.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103241_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 60,
-  'title': 'Спрей БиоМастер Фитощит 100мл',
+  'title': 'Spray BioMaster Fitoshield 100ml',
   'price': 144,
   'discount_price': null,
-  'description': 'Защищает от тли различных видов, оранжерейной белокрылки, паутинного клеща, щитовок, ложнощитовок, червецов, а также способствует выработке иммунитета растений и наполняет воздух легким ароматом. Подходит для оранжерейных и комнатных растений, рассады овощных и цветочных культур.',
+  'description': 'Protects against various types of aphids, greenhouse whitefly, spider mites, scale insects, false scale insects, scale insects, and also promotes the development of plant immunity and fills the air with a light aroma. Suitable for greenhouse and indoor plants, vegetable and flower seedlings.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/104415_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 61,
-  'title': 'Ревус 1,5мл для защиты картофеля и овощей от болезней',
+  'title': 'Revus 1.5ml to protect potatoes and vegetables from diseases',
   'price': 25,
   'discount_price': null,
-  'description': 'Препарат «Ревус» — для защиты картофеля и овощных культур от заболеваний, вызываемых оомицетами: фитофтороза и пероноспороза. ',
+  'description': 'The drug "Revus" - to protect potatoes and vegetable crops from diseases caused by oomycetes: late blight and peronospora. ',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102910_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 62,
-  'title': 'Мухояр аэрозоль Full out-One Touch 200мл',
+  'title': 'Mukhoyar aerosol Full out-One Touch 200ml',
   'price': 178,
   'discount_price': null,
-  'description': 'Универсальное инсектицидное средство для уничтожения как летающих (мух, комаров, москитов, бабочек моли и др.), так и ползающих (тараканов, клопов, блох, муравьев, кожеедов) насекомых.',
+  'description': 'A universal insecticidal agent for the destruction of both flying (flies, mosquitoes, mosquitoes, moths, etc.) and crawling (cockroaches, bedbugs, fleas, ants, skin beetles).',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102911_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 63,
-  'title': 'Лютоня крем от комаров 50г коробка',
+  'title': 'Lutonya mosquito repellent cream 50g box',
   'price': 77,
   'discount_price': null,
-  'description': 'Этот крем предназначен для защиты взрослых от укусов комаров, москитов и мошек. В качестве активного начала содержит ДЭТА — 25%. Уровень защиты интенсивный. Репеллентные свойства — отличные даже при высокой численности насекомых. Гарантированное защитное действие — до 4,5 ч.',
+  'description': 'This cream is designed to protect adults from mosquito, midge and midge bites. Contains DEET as an active principle - 25%. The level of protection is intense. Repellent properties are excellent even with high insect numbers. Guaranteed protective effect - up to 4.5 hours.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103258_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 64,
-  'title': 'Капут спирали от комаров',
+  'title': 'Kaput mosquito coils',
   'price': 86,
   'discount_price': null,
-  'description': '«Капут» — спирали от комаров и мошек. Для уничтожения комаров и других летающих насекомых(мошки, мокрецы, москиты) на открытом воздухе (сад, приусадебный участок, беседка, открытая терраса, веранда) в присутствии людей, а также в закрытых помещениях в отсутствие людей.',
+  'description': '"Kaput" - coils against mosquitoes and midges. For the destruction of mosquitoes and other flying insects (midges, midges, mosquitoes) in the open air (garden, garden plot, gazebo, open terrace, veranda) in the presence of people, as well as in closed spaces in the absence of people.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102918_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 65,
-  'title': 'Гель-репеллент на эфирных маслах NATURE EPIK 50мл',
+  'title': 'Repellent gel with essential oils NATURE EPIK 50ml',
   'price': 135,
   'discount_price': null,
-  'description': 'Гель-репелент на эфирных маслах NATURE EPIC 50 мл. Nature EPIC — натуральное средство для отпугивания комаров в помещении и на открытых верандах, беседках.',
+  'description': 'Repellent gel with essential oils NATURE EPIC 50 ml. Nature EPIC is a natural mosquito repellent indoors and on outdoor verandas and gazebos.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102916_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 66,
-  'title': 'Агролекарь 2мл от болезней плодовых и овощных культур',
+  'title': 'Agromedicine 2ml for diseases of fruit and vegetable crops',
   'price': 17,
   'discount_price': null,
-  'description': 'Агролекарь, КЭ – системный фунгицид для защиты семечковых, косточковых, ягодных, овощных, цветочных растений, а также декоративных культур и виноградной лозы от мучнистой росы и других заболеваний.',
+  'description': 'Agromedicine, EC is a systemic fungicide for the protection of pomaceous, stone fruit, berry, vegetable, flower plants, as well as ornamental crops and grapevines from powdery mildew and other diseases.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102920_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 69,
-  'title': 'Ран от кротов и полевок 250мл',
+  'title': 'Wound from moles and voles 250ml',
   'price': 295,
   'discount_price': null,
-  'description': 'Продукт для эффективного отпугивания кротов и полевок. Преимущества от использования препарата:\n-Позволяет существенно снижать норму внесения инсектицидных и акарицидных препаратов;\n-Не на накапливается в морфологических единицах растения;\n-Внедряется в пищевую цепь кротов и полевок, при этом вырабатывается отторжение от привычных элементов питания в виде с/х культур;\n-Существенно уменьшает потери урожая при повреждении грызунами;\n-Позволяет избежать иммунного стресса;\n-Препарат, соответствующий принципам «зеленого» земледелия.\nМеханизм действия препарата:\nРан проникает в почву и оседает на стенках тоннелей и нор, тем самых блокирует доступ к пище. Кроты и полевки при этом покидают территории без пищи.',
+  'description': 'Product for effectively repelling moles and voles. Benefits of using the drug:\n' +
+    '-Allows you to significantly reduce the rate of application of insecticidal and acaricidal preparations;\n' +
+    '-Does not accumulate in the morphological units of the plant;\n' +
+    '-Introduces itself into the food chain of moles and voles, thereby developing a rejection of the usual nutrients in the form of agricultural crops;\n' +
+    '-Significantly reduces crop losses due to damage by rodents;\n' +
+    '-Allows you to avoid immune stress;\n' +
+    '-A product that complies with the principles of “green” farming.\n' +
+    'Mechanism of action of the drug:\n' +
+    'The wound penetrates the soil and settles on the walls of tunnels and burrows, thereby blocking access to food. Moles and voles leave the area without food.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/101161_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 70,
-  'title': 'Капкан 250мл',
+  'title': 'Trap 250ml',
   'price': 295,
   'discount_price': null,
-  'description': 'Биологический препарат против насекомых-вредителей (тлей, клещей и белокрылок) на плодовых деревьях, ягодных кустарниках и комнатных растениях. Капкан действует механическим образом ввиду ярковыраженных клеящих свойств. Продукт, нанесенный на культуру, высыхает, блокируя деятельность морфологических единиц насекомых, и проводит к их гибели.',
+  'description': 'Biological preparation against insect pests (aphids, mites and whiteflies) on fruit trees, berry bushes and indoor plants. The trap operates mechanically due to its pronounced adhesive properties. The product applied to the crop dries, blocking the activity of insect morphological units and leading to their death.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/101499_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 71,
-  'title': 'Карбофос 30г',
+  'title': 'Karbofos 30g',
   'price': 52,
   'discount_price': null,
-  'description': 'Вскрыть упаковку (пакет), растворить средство в воде, перемешать в течении нескольких минут и нанести на поверхность кистью или бытовым опрыскивателем на места обитания, скопления или передвижения насекомых-вредителей (дорожки). 60 г на 10 л до 5 л на 100 кв.м.',
+  'description': 'Open the packaging (package), dissolve the product in water, mix for several minutes and apply to the surface with a brush or household sprayer on the habitats, accumulations or movements of pests (paths). 60 g per 10 l to 5 l per 100 sq.m.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100189_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 72,
-  'title': 'Землин 30г от проволочника и капустной мухи',
+  'title': 'Zemlin 30g against wireworms and cabbage flies',
   'price': 54,
   'discount_price': null,
-  'description': '«Землин» – это эффективный препарат для борьбы с вредителями картофеля, лука, капусты и цветочных культур:',
+  'description': '"Zemlin" is an effective drug for controlling pests of potatoes, onions, cabbage and flower crops:',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102999_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 73,
-  'title': 'Блокбастер Спрей 200мл',
+  'title': 'Blockbuster Spray 200ml',
   'price': 112,
   'discount_price': null,
-  'description': '«Аэрозоль 360°» отличается от обычного аэрозольного баллона тем, что его можно распылять в любом положении, т. е. как вверх, так и вниз распылительным клапаном, а также в любом наклонном положении.',
+  'description': '"Aerosol 360°" differs from a regular aerosol can in that it can be sprayed in any position, i.e. both up and down with the spray valve, as well as in any inclined position.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99482_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 74,
-  'title': 'Раек 2мл',
+  'title': 'Rayek 2ml',
   'price': 37,
   'discount_price': null,
-  'description': 'ысокоэффективный препарат для обработки плодовых культур от болезней.',
+  'description': 'A highly effective product for treating fruit crops against diseases.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/95473_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 77,
-  'title': 'Антитлин 250г природный инсектицид',
+  'title': 'Antitlin 250g natural insecticide',
   'price': 57,
   'discount_price': null,
-  'description': 'Применяется для борьбы с сосущими и листогрызущими насекомыми- вредителями плодоовощных, ягодных и цветочно-декоративных культур. Входящий в состав препарата щелочной компонент, может воздействовать не только на вредителей растений, но и грибковые поражения и другие заболевания.',
+  'description': 'It is used to combat sucking and leaf-eating insect pests of fruits and vegetables, berries and flower and ornamental crops. The alkaline component included in the preparation can affect not only plant pests, but also fungal infections and other diseases.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/93491_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 78,
-  'title': 'Великий воин гель 30г (муравьи)',
+  'title': 'Great warrior gel 30g (ants)',
   'price': 55,
   'discount_price': null,
-  'description': '«Великий воин гель» против садовых и домашних муравьев:',
+  'description': '"Great Warrior Gel" against garden and house ants:',
   'image': 'https://garden-zoo.ru/pictures/product/middle/92752_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 79,
-  'title': 'Инта-вир от мха, плесени и лишайников 0,75л',
+  'title': 'Inta-vir for moss, mold and lichens 0.75l',
   'price': 237,
   'discount_price': null,
-  'description': 'Средство Инта Вир - эффективное средство, которое поможет справиться с такими болезнями у растений как, мох, плесень и лишайники. Средство подавляет размножение разных возбудителей грибковых и бактериальных болезней. Использование способствует уничтожению плесени и мха с натурального и искусственного камня, деревянных покрытий, плитки, стекла, керамики и других материалов, для обработки садовых фигур и памятников.',
+  'description': 'Inta Vir is an effective remedy that will help cope with plant diseases such as moss, mold and lichens. The product suppresses the proliferation of various pathogens of fungal and bacterial diseases. Use helps destroy mold and moss from natural and artificial stone, wood coverings, tiles, glass, ceramics and other materials for processing garden figures and monuments.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/92541_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 80,
-  'title': 'Рубит ПРОФИ 5мл средство от болезней',
+  'title': 'Rubit PROFI 5ml remedy for diseases',
   'price': 39,
   'discount_price': null,
-  'description': 'Фунгицид для защиты ягодных кустарников от болезней',
+  'description': 'Fungicide for protecting berry bushes from diseases',
   'image': 'https://garden-zoo.ru/pictures/product/middle/105491_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 81,
-  'title': 'Рубит Зиндан 30г Убьет всех средство от тараканов и муравьев',
+  'title': 'Rubit Zindan 30g Will kill everyone repellent for cockroaches and ants',
   'price': 64,
   'discount_price': null,
-  'description': 'Назначение: для борьбы с муравьями и тараканами, а так же ползающими насекомыми в квартире и доме.\nСпособы применения: гель против тараканов и муравьев нанести капельками на расстоянии 20-50 см друг от друга в местах обитания и перемещения насекомых (вдоль плинтусов, в щели, трещины, за холодильником, под батареями, мойкой, шкафами, полками, около труб горячего водоснабжения, вдоль «дорожек» муравьев и т.д.).\nРекомендации к применению: средство рекомендуется нанести на подложки (кусочки плотной бумаги или полимерной пленки) и разместить их на обрабатываемой площади. Если насекомых очень много расстояние между каплями или подложками можно сократить. Наносить средство только на сухую поверхность, в местах, недоступных детям и домашним животным. После использования закрыть тару со средством защитным колпачком. Одна упаковка 30 г рассчитана на обработку помещения площадью 30-40 м2.',
+  'description': 'Purpose: to combat ants and cockroaches, as well as crawling insects in the apartment and house.\n' +
+    'Methods of application: apply the gel against cockroaches and ants in droplets at a distance of 20-50 cm from each other in places where insects live and move (along baseboards, in cracks, behind the refrigerator, under radiators, sinks, cabinets, shelves, near hot water pipes , along the “paths” of ants, etc.).\n' +
+    'Recommendations for use: it is recommended to apply the product onto substrates (pieces of thick paper or polymer film) and place them on the area to be treated. If there are a lot of insects, the distance between drops or substrates can be reduced. Apply the product only to a dry surface, out of the reach of children and pets. After use, close the container with the protective cap. One package of 30 g is designed to treat a room with an area of 30-40 m2.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/92257_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 82,
-  'title': 'Укрывной материал СУФ-60 ширина 3,2 м длина 10 м',
+  'title': 'Covering material SUF-60 width 3.2 m length 10 m',
   'price': 560,
   'discount_price': null,
-  'description': 'Укрывной материал СУФ-60  применяется для защиты молодых растений от повышенных или пониженных температур, ночных заморозков до -4°С, града, вредных насекомых, птиц. Обладает водо-, воздухо-, светопроницаемостью и малой теплопроводностью, что создает благоприятный микроклимат для роста и развития растений. Материал изготовлен из нетканого полотна "спанбонд", состоящего из полипропилена плотностью 60 г/кв.м. Не теряет своих свойств в течение 3 сезонов.',
+  'description': 'Covering material SUF-60 is used to protect young plants from high or low temperatures, night frosts down to -4°C, hail, harmful insects, and birds. It has water, air, light transmission and low thermal conductivity, which creates a favorable microclimate for the growth and development of plants. The material is made of spunbond non-woven fabric consisting of polypropylene with a density of 60 g/sq.m. Does not lose its properties for 3 seasons.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/95468_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 83,
-  'title': 'Укрывной материал СУФ-40 ширина 3,2 м длина10 м',
+  'title': 'Covering material SUF-40 width 3.2 m length 10 m',
   'price': 380,
   'discount_price': null,
-  'description': 'Нетканый укрывной материал с равномерной структурой и плотностью по всему полотну, что позволяет поддерживать оптимальный микроклимат, гарантируя равномерное распределение осадков и циркуляцию воздуха, стойкий к ультрафиолету. Материал предназначен для защиты овощей, фруктов и декоративных растений в открытом грунте от ожогов и перепадов температур. Защищает растения от насекомых и птиц, а также воздействия негативных погодных условий (например, град или сильный дождь). Укрытие растений нетканым полотном можно осуществлять без дополнительного каркаса, просто накрыв растения материалом. Материал пропускает свет и воздух, создавая благоприятный для роста растений микроклимат с оптимальной температурой воздуха. Это обеспечивает раннее созревание культур.',
+  'description': 'Non-woven covering material with a uniform structure and density throughout the entire fabric, which allows you to maintain an optimal microclimate, ensuring uniform distribution of precipitation and air circulation, resistant to ultraviolet radiation. The material is intended to protect vegetables, fruits and ornamental plants in open ground from burns and temperature changes. Protects plants from insects and birds, as well as the effects of adverse weather conditions (for example, hail or heavy rain). Covering plants with non-woven fabric can be done without an additional frame, simply by covering the plants with the material. The material allows light and air to pass through, creating a microclimate favorable for plant growth with optimal air temperature. This ensures early ripening of crops.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/96030_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 84,
-  'title': 'Баргузин 30г от проволочника Ваше Хозяйство',
+  'title': 'Barguzin 30g from wireworm Your Economy',
   'price': 68,
   'discount_price': null,
-  'description': 'Баргузин. Фосфорорганический инсектоакарицид контактно-кишечного действия для борьбы с комплексом вредителей на картофеле и цветочных культурах в личных подсобных хозяйствах. Препарат применяется путем внесения в почву гранул при посадке культуры и в период развития вредителей. После внесения в почву, действующее вещество препарата (диазинон) попадает в почвенный раствор, перераспределяется по площади участка и часть препарата проникает в защищаемое растение вместе с почвенной влагой. Попадая в организм вредителя (контактно через кутикулу или кишечно при поедании культуры) воздействует на нервную систему насекомого, в месте действия ингибирует фермент ацетилхолинэстеразу, через 2-3 часа резко снижается поедательная способность вредителей и теряется их двигательная активность. Полная гибель насекомых наступает через 1-3 дня после обработки.',
+  'description': 'Barguzin. Organophosphorus insectoacaricide of contact-intestinal action to combat a complex of pests on potatoes and flower crops in private farms. The drug is used by adding granules to the soil when planting crops and during the period of pest development. After application to the soil, the active substance of the drug (diazinon) enters the soil solution, is redistributed over the area of the site, and part of the drug penetrates into the protected plant along with soil moisture. Once in the pest\'s body (contact through the cuticle or intestine when eating a crop), it affects the nervous system of the insect, inhibits the acetylcholinesterase enzyme at the site of action, after 2-3 hours the eating ability of the pests sharply decreases and their motor activity is lost. Complete death of insects occurs 1-3 days after treatment.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/95482_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 85,
-  'title': 'Липкая лента Мухофф от мух',
+  'title': 'Muchoff adhesive tape against flies',
   'price': 21,
   'discount_price': null,
-  'description': 'Находясь в загородном доме, многие люди сталкиваются с досаждающими мухами, которые способны причинить массу вреда. Они переносят инфекцию и раздражают своим назойливым жужжанием.',
+  'description': 'While in a country house, many people encounter annoying flies that can cause a lot of harm. They carry infection and irritate with their annoying buzzing.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103263_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 86,
-  'title': 'Доктор Клаус Секция картон от моли свежесть',
+  'title': 'Dr. Klaus Section cardboard from moths freshness',
   'price': 42,
   'discount_price': null,
-  'description': 'Характеристика Подвесной картон секции Dr.Klaus антимоль Свежесть',
+  'description': 'Characteristics Hanging cardboard section Dr.Klaus anti-moth Freshness',
   'image': 'https://garden-zoo.ru/pictures/product/middle/87622_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 87,
-  'title': 'Превикур Энерджи 60мл',
+  'title': 'Previkur Energy 60ml',
   'price': 689,
   'discount_price': null,
-  'description': 'Фунгицидный препарат системного действия с эффектом стимуляции роста растений для защиты рассады и плодоносящих растений от гнилей, фитофтороза и пероноспороза. Через 24 часа после обработки овощи можно употреблять в пищу.',
+  'description': 'A systemic fungicidal preparation with the effect of stimulating plant growth to protect seedlings and fruit-bearing plants from rot, late blight and downy mildew. 24 hours after treatment, vegetables can be eaten.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/86969_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 88,
-  'title': 'Спектр Цунами КЭ 1мл',
+  'title': 'Spectrum Tsunami CE 1ml',
   'price': 26,
   'discount_price': null,
-  'description': 'Современный инсектицид для защиты картофеля от колорадского жука.',
+  'description': 'A modern insecticide to protect potatoes from the Colorado potato beetle.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103839_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 89,
-  'title': 'Спектр Муссон ВРК 1мл',
+  'title': 'Spectrum Monsoon VRK 1ml',
   'price': 25,
   'discount_price': null,
-  'description': 'Применяется для защиты овощных культур от колорадского жука, тли, тепличной белокрылки. Препарат обладает длительным защитным действием, что позволяет использовать его в теплицах для защиты растений, начиная со всходов. Достаточно 1-2 применений за сезон. Препарат высоко эффективен против личинок, активно и быстро действует против взрослых особей насекомых.',
+  'description': 'It is used to protect vegetable crops from the Colorado potato beetle, aphids, and greenhouse whitefly. The drug has a long-term protective effect, which allows it to be used in greenhouses to protect plants, starting from seedlings. 1-2 applications per season are enough. The drug is highly effective against larvae, actively and quickly acts against adult insects.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/103840_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 90,
-  'title': 'Краска для садовых деревьев 1,5кг ведро (12)',
+  'title': 'Paint for garden trees 1.5kg bucket (12)',
   'price': 97,
   'discount_price': null,
-  'description': 'Краска для садовых деревьев  - для защиты стволов, крупных ветвей садовых деревьев и кустарников. Образует покрытие, предохраняющее от насекомых-вредителей древесины, грызунов, спор грибов-патогенов. Защищает кору деревьев от солнечных ожогов, повышает стойкость к заморозкам и резким температурным перепадам. Краска не препятствует естественному воздухообмену древесины.',
+  'description': 'Paint for garden trees - to protect trunks, large branches of garden trees and shrubs. Forms a coating that protects against insect pests of wood, rodents, and spores of pathogenic fungi. Protects tree bark from sunburn, increases resistance to frost and sudden temperature changes. The paint does not interfere with the natural air exchange of wood.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/81348_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 91,
-  'title': 'Рубит мелок от всех насекомых 20гр',
+  'title': 'Chops chalk from all insects 20g',
   'price': 25,
   'discount_price': null,
-  'description': 'Инсектицидное средство «ДОМОВОЙ-МЕЛОК» для уничтожения тараканов, муравьев, клопов, блох и обработки мест посадки мух населением в быту.\n\nСПОСОБ ПРИМЕНЕНИЯ: освободите часть карандаша из упаковки и, держите за полиэтилен, нанести несколько полос на места обитания, скопления или передвижения насекомых.\n\nОт ТАРАКАНОВ -обработать плинтуса, стыки кафельных плит, вентиляционные отдушины, водопроводные и отопительные трубы, под раковинами;\n\nОт МУРАВЬЕВ - места передвижения ("дорожки");\n\nОт КЛОПОВ - места возможного обитания насекомых: заднюю поверхность ковров, мебели, картин, кроватей, матрацев, плинтуса;\n\nОт МУХ - места их возможной посадки;\n\nОт БЛОХ - плинтуса, стены на высоту до 1 м, щели в полу, между стенами и плинтусами. Один карандаш массой 20 г расходуют в день на 20-30 кв.м обрабатываемой поверхностн.После окончания срока действия средства (1,5-2 мес) полосы смывают мыльно-содовым раствором. Повторную обработку проводят при появлении насекомых.\nПосле обработки- смыть руки и лицо водой с мылом. Хранить отдельно от пищевых продуктов, лекарственных средств,  в местах, не доступных детям, в сухом крытом складском помещении в закрытой упаковке при температуре не ниже -30°С и не выше + 40°С. Использовать только по назначению. После окончания срока действия средство можно выбросить в мусоропровод.',
+  'description': 'Insecticidal agent "HOUSE-CHALK" for the destruction of cockroaches, ants, bedbugs, fleas and treatment of fly sites for the population in everyday life.\n' +
+    '\n' +
+    'METHOD OF APPLICATION: release part of the pencil from the packaging and, holding it by the polyethylene, apply several stripes to the habitats, accumulations or movements of insects.\n' +
+    '\n' +
+    'From COCKROACHS - treat baseboards, tile joints, ventilation vents, water and heating pipes, under sinks;\n' +
+    '\n' +
+    'From ANTS - places of movement (“paths”);\n' +
+    '\n' +
+    'From BUGS - places of possible habitat of insects: the back surface of carpets, furniture, paintings, beds, mattresses, baseboards;\n' +
+    '\n' +
+    'From MUKH - places of their possible landing;\n' +
+    '\n' +
+    'From BLOCH - baseboards, walls up to a height of 1 m, cracks in the floor, between walls and baseboards. One pencil weighing 20 g is used per day for 20-30 sq.m of treated surface. After the product expires (1.5-2 months), the strips are washed off with a soap-soda solution. Repeated treatment is carried out when insects appear.\n' +
+    'After treatment, wash your hands and face with soap and water. Store separately from food products and medicines, in places out of reach of children, in a dry covered warehouse in closed packaging at a temperature not lower than -30°C and not higher than + 40°C. Use only for its intended purpose. After the expiration date, the product can be thrown into the garbage disposal.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/81329_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 92,
-  'title': 'Рубит Ловушка клеевая от тараканов домик',
+  'title': 'Chops glue trap for cockroaches house',
   'price': 46,
   'discount_price': null,
-  'description': 'Картонная клеевая ловушка в виде домика с привлекателен для тараканов. Предназначена для механического отлова тараканов в помещениях. С внутренней стороны домика снять защитный слой и разместить приманку в центр клеевого слоя, с помощью фиксирующего клапана сомкнуть верхние створки ловушки и установить в местах скопления насекомых. Вскрытые ловушки сохраняют активность в течение 3 месяцев.',
+  'description': 'A cardboard glue trap in the shape of a house with an attractive design for cockroaches. Designed for mechanical catching of cockroaches indoors. From the inside of the house, remove the protective layer and place the bait in the center of the adhesive layer, use the locking valve to close the upper flaps of the trap and place it in places where insects accumulate. Opened traps remain active for 3 months.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/81109_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 93,
-  'title': 'Рубит Зоокумарин + зерновая смесь 160г',
+  'title': 'Rubit Zookoumarin + grain mixture 160g',
   'price': 41,
   'discount_price': null,
-  'description': 'Эффективная готовая приманка для истребления мышей и крыс. Высокая привлекательность. ЭФФЕКТИВНА для уничтожения крыс и мышей в жилищах, садовых домиках и в бытовых помещениях. ВЫСОКАЯ ПРИВЛЕКАЮЩАЯ СПОСОБНОСТЬ благодаря специальным пищевым добавкам-аттрактантам.\n\nДВОЙНАЯ СИЛА – два действующих вещества существенно умножают активность препарата. ОТСУТСТВУЕТ ПРИВЫКАЕМОСТЬ грызунов.\n\nСПОСОБ ПРИМЕНЕНИЯ:\n\nСредство раскладывают в местах обнаружения грызунов или следов их деятельности (погрызы, помёт и пр.), поблизости от их нор, на путях перемещения, вдоль стен, перегородок и др. Размещают порциями на подложки, лотки, в емкости для раскладки отравленных приманок: на объектах, заселенных крысами – по 100-150 г на расстоянии 5-10 м друг от друга, на объектах, заселенных мышами – по 10-20 г через 3-5 м. Чем выше численность грызунов на объекте, тем меньше должно быть расстояние между порциями приманки. Порции, оставшиеся нетронутыми более недели, перекладывают в другие места, посещаемые грызунами. Обработку объекта (помещения) заканчивают, когда приманка остается нетронутой грызунами во всех местах ее раскладки. Павших грызунов, использованные подложки, емкости и остатки средства сжечь или закопать в землю на глубину не менее 0,5 м вдали от водоемов. Не использовать столовую посуду!\n\nМеры предосторожности:\n\nЗапрещается применение средства в местах разделки и хранения пищевых продуктов, вблизи открытых водоемов, а также в местах, доступных для детей и домашних животных. Во время работ не курить и не принимать пищу. Исключить попадание приманки на кожу (использовать резиновые перчатки, специальные совочки, ложки)! По окончании работы тщательно вымыть руки водой с мылом.\n\nОбласть применения: для истребления мышей и крыс в личных подсобных хозяйствах. Специально подобранная смесь, учитывающая пищевые предпочтения грызунов.',
+  'description': 'An effective ready-made bait for exterminating mice and rats. High attractiveness. EFFECTIVE for exterminating rats and mice in homes, garden houses and domestic premises. HIGH ATTRACTION POWER thanks to special food additives-attractants.\n' +
+    '\n' +
+    'DOUBLE STRENGTH – two active ingredients significantly multiply the activity of the drug. NO ADDICTABILITY for rodents.\n' +
+    '\n' +
+    'MODE OF APPLICATION:\n' +
+    '\n' +
+    'The product is laid out in places where rodents or traces of their activity are found (gnaws, droppings, etc.), near their burrows, on travel routes, along walls, partitions, etc. Placed in portions on substrates, trays, in containers for laying out poisoned baits: on objects inhabited by rats - 100-150 g at a distance of 5-10 m from each other, in objects inhabited by mice - 10-20 g every 3-5 m. The higher the number of rodents on the object, the smaller the distance between portions of bait. Portions that remain untouched for more than a week are transferred to other places frequented by rodents. Processing of the object (room) is completed when the bait remains untouched by rodents in all places where it is laid out. Burn dead rodents, used substrates, containers and remaining product or bury them in the ground to a depth of at least 0.5 m away from water bodies. Do not use tableware!\n' +
+    '\n' +
+    'Precautionary measures:\n' +
+    '\n' +
+    'It is prohibited to use the product in places where food is cut and stored, near open water bodies, as well as in places accessible to children and pets. Do not smoke or eat during work. Avoid getting the bait on your skin (use rubber gloves, special scoops, spoons)! When finished, wash your hands thoroughly with soap and water.\n' +
+    '\n' +
+    'Scope of application: for the extermination of mice and rats in private farms. A specially selected mixture that takes into account the food preferences of rodents.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/97072_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 94,
-  'title': 'Рубит Зиндан гель Профи от муравьев и тараканов 100г',
+  'title': 'Rubit Zindan gel Pro against ants and cockroaches 100g',
   'price': 89,
   'discount_price': null,
-  'description': 'Область применения: гель для уничтожения тараканов и муравьев на объектах различных категорий. Прозрачный гель с приятным запахом. Изготовлен на высококачественной натуральной пищевой основе. Легко удаляется с обработанных поверхностей с помощью воды, не оставляя жирных или тёмных пятен. Содержит сразу два действующих вещества, благодаря чему особенно активен и обладает нокаут-эффектом для насекомых. Удлиненный носик флакона позволяет наносить гель в труднодоступные места и щели.',
+  'description': 'Scope of application: gel for exterminating cockroaches and ants on objects of various categories. Transparent gel with a pleasant smell. Made from high quality natural food base. Easily removed from treated surfaces with water, without leaving greasy or dark stains. Contains two active ingredients at once, making it especially active and has a knockout effect for insects. The elongated spout of the bottle allows you to apply the gel to hard-to-reach places and crevices.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/92778_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 1
 }, {
   'id': 95,
-  'title': 'Крыжовник Черносливовый',
+  'title': 'Gooseberry Prune',
   'price': 316,
   'discount_price': null,
-  'description': 'Кусты не отличаются выдающимися характеристиками. Их способности к росту и степень раскидистости оценивают как средние, густота ветвления тоже не чрезмерная, ветви направлены наклонно. Шиповатость слабая, редкая, колючки одинарные, направлены прямо. Молодые растущие побеги у этого кустарника более толстые, светло-зеленые, без опушения, взрослые одревесневшие – светлые, тоньше в диаметре.',
+  'description': 'The bushes do not have outstanding characteristics. Their growth abilities and degree of spreading are assessed as average, the density of branching is also not excessive, the branches are directed obliquely. The spine is weak and sparse, the spines are single and directed straight. Young growing shoots of this shrub are thicker, light green, without pubescence, while adult woody shoots are light in color and thinner in diameter.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100156_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 96,
-  'title': 'Крыжовник Сливовый',
+  'title': 'Gooseberry Plum',
   'price': 316,
   'discount_price': null,
-  'description': 'Куст Сливового сильнорослый, но компактный, со средней густотой. Для него не характерно обилие роста прикорневых побегов. Ветви немного изогнуты, растут вертикально. Шипов много, направлены к земле, ими усыпаны полностью все побеги, шипы могут быть светлоокрашенными – как одинарными, так и двойными, тройными. Л',
+  'description': 'The Plum bush is vigorous, but compact, with medium density. It is not characterized by an abundance of growth of basal shoots. The branches are slightly curved and grow vertically. There are many thorns, directed towards the ground, all shoots are strewn with them, the thorns can be light-colored - both single, double, and triple.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100155_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 97,
-  'title': 'Роза Коко Локо',
+  'title': 'Rose Coco Loco',
   'price': 361,
   'discount_price': null,
-  'description': 'Кусты розы сорта Коко Локо достигают в длину около одного метра. Каждый стебель увенчивает один цветок. Бутоны крупные, удлиненной формы. Диаметр цветков около 8-10 см, лепестки пышные и махровые. Цвет варьируется от пыльно-бежевого до оттенка кофе с молоком. Аромат сладковатый, очень приятный, но не слишком интенсивный. Листья темно-зеленые, полуглянцевые, устойчивые к болезням и вредителям.',
+  'description': 'Rose bushes of the Coco Loco variety reach a length of about one meter. Each stem is crowned with one flower. The buds are large, elongated. The diameter of the flowers is about 8-10 cm, the petals are lush and terry. Colors range from dusty beige to café au lait. The aroma is sweetish, very pleasant, but not too intense. The leaves are dark green, semi-glossy, and resistant to diseases and pests.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99022_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 98,
-  'title': 'Фрезия простая микс (6)',
+  'title': 'Freesia simple mix (6)',
   'price': 175,
   'discount_price': null,
-  'description': 'В упаковке 6 луковиц.',
+  'description': 'There are 6 bulbs in a package.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/81092_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 99,
-  'title': 'Тюльпан Негрита (3)',
+  'title': 'Tulip Negrita (3)',
   'price': 154,
   'discount_price': null,
-  'description': '3 луковицы в упаковке.',
+  'description': '3 bulbs per pack.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/80590_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 100,
-  'title': 'Гиацинт Анна Лиза (2)',
+  'title': 'Hyacinth Anna Lisa (2)',
   'price': 186,
   'discount_price': null,
-  'description': 'В упаковке 2 луковицы.',
+  'description': 'There are 2 bulbs in a package.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/80534_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 101,
-  'title': 'Гортензия древовидная Пинк Аннабель С10',
+  'title': 'Hydrangea tree Pink Annabelle S10',
   'price': '2 900',
   'discount_price': null,
-  'description': 'Гортензия древовидная Pink Annabelle-2 –Это улучшенная Pink Annabelle. Побеги достаточно крепкие, поэтому во время цветения не сгибаются к земле.  Высота кустарника до 1,5м. Имеет необычную окраску цветков. В начале цветения стерильные цветки, собранные в крупные соцветия розового цвета, по мере распускания меняют окраску на ярко-розовую. Цветет с июня по сентября.',
+  'description': 'Tree hydrangea Pink Annabelle-2 – This is an improved Pink Annabelle. The shoots are quite strong, so they do not bend towards the ground during flowering. The height of the bush is up to 1.5 m. It has an unusual flower color. At the beginning of flowering, sterile flowers, collected in large pink inflorescences, change color to bright pink as they bloom. Blooms from June to September.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/76012_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 102,
-  'title': 'Крыжовник Малахит',
+  'title': 'Gooseberry Malachite',
   'price': 532,
   'discount_price': null,
-  'description': 'В результате селекции гибрид Малахит приобрел следующие характеристики:',
+  'description': 'As a result of selection, the Malachite hybrid acquired the following characteristics:',
   'image': 'https://garden-zoo.ru/pictures/product/middle/76545_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 103,
-  'title': 'Гортензия метельчатая Сандеа Фрайз',
+  'title': 'Hydrangea paniculata Sandea Fries',
   'price': 764,
   'discount_price': null,
-  'description': 'Hydrangea paniculata Sundae Fraise (гортензия метельчатая «Клубничный пломбир») – это самый новый сорт этого растения. Он был выведен опытными французскими селекционерами в начале 2010 года и создан на основе другого сорта, который называется «Ванилла Фрайз». Если сравнивать «Сандей фрайз» с ее аналогами и сородичами, то ее можно назвать миниатюрной: высота и ширина кустарника не превышает 1 метра. Визуально растение напоминает аккуратный шар, который не нуждается в специальной формировке.',
+  'description': 'Hydrangea paniculata Sundae Fraise is the newest variety of this plant. It was bred by experienced French breeders in early 2010 and created on the basis of another variety called Vanilla Fries. If we compare “Sunday Frize” with its analogues and relatives, then it can be called miniature: the height and width of the bush does not exceed 1 meter. Visually, the plant resembles a neat ball that does not require special shaping.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/74490_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 104,
-  'title': 'Гортензия древовидная Аннабель',
+  'title': 'Tree hydrangea Annabelle',
   'price': 630,
   'discount_price': null,
-  'description': 'Древовидная гортензия Annabelle отличается относительно большими размерами (в ширину). Высота растения, в зависимости от сорта, может достигать 1,5 метра, а ширина – вплоть до 3 метров. Листья этого растения обладают мягкой и облегченной структурой, чаще всего встречаемый цвет – глубокий зеленый или изумрудный. На листьях отсутствует глянец. Форма листьев овальная, кончики заострены. Средняя длина листьев – до 20 см. Большое количество листьев и массивные соцветия образуют пышную, рыхлую и раскидистую крону овального типа.',
+  'description': 'Tree hydrangea Annabelle is distinguished by its relatively large size (width). The height of the plant, depending on the variety, can reach 1.5 meters, and the width - up to 3 meters. The leaves of this plant have a soft and lightweight structure, the most common color is deep green or emerald. There is no gloss on the leaves. The leaves are oval in shape, with pointed tips. The average leaf length is up to 20 cm. A large number of leaves and massive inflorescences form a lush, loose and spreading oval-type crown.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/74503_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 105,
-  'title': 'Магнолия сьюзана',
+  'title': 'Magnolia susan',
   'price': 725,
   'discount_price': null,
-  'description': 'Магнолия — это удивительное растение, которое пережило даже эпоху динозавров. Но и сейчас культура продолжает радовать глаз своими великолепными цветами. Магнолия сорта Сьюзан популярна по всему миру благодаря своему невероятно красивому цветению. Листья темно-зеленые. Цветки колокольчиковые, в основании темно-малиновые, на концах более светлые, пахучие. Цветёт долго и обильно. Любит солнечные, защищенные места. Почвы свежие, плодородные, проницаемые. Магнолия Сьюзен — это дерево, высота которого достигает от 2,5 до 6,5 м. Форма дерева пирамидальная, по мере роста приобретает округлые очертания. Листва насыщенного зеленого оттенка, листья крупные, толстые и глянцевые.',
+  'description': 'Magnolia is an amazing plant that even survived the era of dinosaurs. But even now the culture continues to delight the eye with its magnificent colors. Magnolia Susan variety is popular all over the world due to its incredibly beautiful blooms. The leaves are dark green. The flowers are bell-shaped, dark crimson at the base, lighter at the ends, fragrant. Blooms long and profusely. Loves sunny, sheltered places. The soils are fresh, fertile, permeable. Magnolia Susan is a tree whose height reaches from 2.5 to 6.5 m. The shape of the tree is pyramidal, becoming rounded as it grows. The foliage is a rich green hue, the leaves are large, thick and glossy.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/74415_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 106,
-  'title': 'Дерен белый Элегантиссима',
+  'title': 'White Derain Elegantissima',
   'price': 556,
   'discount_price': null,
-  'description': 'Листопадный декоративный кустарник до 2-3 м высотой.\nВетви тонкие, гибкие, обычно кораллово-красные.\nЛистья темно-зеленые, снизу сизовато-белые, широкояйцевидные, слегка морщинистые, до 12см длиной.\nЦвести и плодоносить начинает уже с 2-3 лет. Цветение обильное в первой половине лета. Цветки мелкие, белые, собраны в небольшие щитковидные соцветия. Повторное, более слабое цветение наблюдается в начале осени.',
+  'description': 'Deciduous ornamental shrub up to 2-3 m tall.\n' +
+    'The branches are thin, flexible, usually coral red.\n' +
+    'The leaves are dark green, bluish-white below, broadly ovate, slightly wrinkled, up to 12 cm long.\n' +
+    'It begins to bloom and bear fruit at the age of 2-3 years. Flowering is abundant in the first half of summer. The flowers are small, white, collected in small corymbose inflorescences. Repeated, weaker flowering is observed in early autumn.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/75899_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 107,
-  'title': 'Туя Тини Тим 17/40',
+  'title': 'Thuja Teeny Tim 17/40',
   'price': 950,
   'discount_price': null,
-  'description': 'Туя западная Tини Тим (Thuja occidentalis Tiny Tim) - очень медленно растущий, карликовый вечнозеленый кустарник с шаровидной, тонко разветвленной кроной. Особенности листвы - чешуевидные, средне-зеленого цвета, уплощенные перьевидные листья. Напоминает округлый курган. В 10 лет высота растений этой формы 30 см, диаметр кроны 40 см. Диаметр кроны взрослого растения до 1.5 м, высота 0.5-1 м.  Растет медленно. Светолюбива. К почвам нетребовательна, переносит сухость почвы и избыточное увлажнение, но предпочитает свежие, достаточно увлажненные плодородные суглинки. Морозостойка.',
+  'description': 'Thuja occidentalis Tiny Tim is a very slow-growing, dwarf evergreen shrub with a spherical, finely branched crown. Foliage features: scale-like, medium green, flattened, feather-like leaves. Resembles a round mound. At 10 years old, the height of plants of this form is 30 cm, the crown diameter is 40 cm. The diameter of the crown of an adult plant is up to 1.5 m, the height is 0.5-1 m. It grows slowly. Photophilous. It is undemanding to soils, tolerates dry soil and excessive moisture, but prefers fresh, sufficiently moist fertile loams. Frost-resistant.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/25894_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 108,
-  'title': 'Крокус Флауер Рекорд (6)',
+  'title': 'Crocus Flower Record (6)',
   'price': 227,
   'discount_price': null,
-  'description': 'В упаковке 6 луковиц.',
+  'description': 'There are 6 bulbs in a package.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/106479_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 109,
-  'title': 'Яблоня Серебряное Копытце',
+  'title': 'Apple Tree Silver Hoof',
   'price': 363,
   'discount_price': null,
-  'description': 'Серебряное Копытце – это среднерослая яблоня с густой округлой кроной. Главные прямые ветви покрыты светлой желтовато-коричневой корой. Побеги прямые, окрашены в темные тона, слегка опушенные. Светло-зеленые листья яблони имеют овальную форму с округлым основанием и коротко заостренной верхушкой. Середина листа немного вогнута, создавая тем самым некое сходство с лодочкой. Цветки яблони среднего размера.',
+  'description': 'Silver Hoof is a medium-sized apple tree with a dense, rounded crown. The main straight branches are covered with light yellowish-brown bark. The shoots are straight, dark-colored, slightly pubescent. The light green leaves of the apple tree are oval in shape with a rounded base and a short pointed tip. The middle of the sheet is slightly concave, thereby creating a certain resemblance to a boat. Medium sized apple flowers.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100163_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 110,
-  'title': 'Яблоня Северный синал',
+  'title': 'Apple tree Northern Sinal',
   'price': 363,
   'discount_price': null,
-  'description': 'В высоту яблоня достигает 8 метров, при этом крона не бывает сильно загущенной, скорее средняя густота. Форма широкая, пирамидальная. Листва темного зеленого цвета, с обильным опушением. ',
+  'description': 'The apple tree reaches a height of 8 meters, and the crown is not very thick, but rather of average density. The shape is wide, pyramidal. The foliage is dark green, with abundant pubescence. ',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100162_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 111,
-  'title': 'Яблоня Китайка Золотая',
+  'title': 'Apple tree Chinese Golden',
   'price': 363,
   'discount_price': null,
-  'description': 'Деревья описываемого сорта вырастают либо большими, либо средними по высоте, все зависит от качества обрезки. Пока они молодые, их крона имеет метловидную форму, через 5 лет она превращается в раскидистую, плакучую. ',
+  'description': 'Trees of the described variety grow either large or medium in height, it all depends on the quality of pruning. While they are young, their crown has a broom-like shape; after 5 years it turns into a spreading, weeping one.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100161_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 112,
-  'title': 'Смородина черная Орловская Серенада саженец',
+  'title': 'Black currant Orlovskaya Serenada seedling',
   'price': 246,
   'discount_price': null,
-  'description': 'Среднерослые кусты обладают слабораскидистой формой и не слишком плотной загущенностью. Средней толщины молодые побеги имеют блестящую гладкую поверхность и нейтральную окраску. Одревесневшие ветви прошлых лет покрыты серо-коричневой корой с междоузлиями усредненной длины, покрыты зелеными листьями. Листовая пластина имеет слабогофрированную блестящую поверхность и стандартное рассечение по краям, украшенным небольшими зубчиками. Ярко-желтые цветки собраны в короткие, слегка извилистые рыхлые кисти зеленого цвета, на каждой из которых образуется по 5-6 завязей.',
+  'description': 'Medium-sized bushes have a slightly spreading shape and are not too densely dense. The young shoots are of medium thickness, have a shiny, smooth surface and a neutral color. Lignified branches of previous years are covered with gray-brown bark with internodes of average length, covered with green leaves. The leaf plate has a slightly corrugated shiny surface and a standard dissection along the edges, decorated with small teeth. Bright yellow flowers are collected in short, slightly sinuous, loose clusters of green color, on each of which 5-6 ovaries are formed.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100160_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 113,
-  'title': 'Смородина черная Ника',
+  'title': 'Black currant Nika',
   'price': 574,
   'discount_price': null,
-  'description': 'Куст среднерослый, среднераскидистый. Побеги средние, прямые. ',
+  'description': 'The bush is medium-sized, medium-spreading. The shoots are medium, straight.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100159_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 114,
-  'title': 'Малина Бальзам',
+  'title': 'Raspberry Balm',
   'price': 283,
   'discount_price': null,
-  'description': 'Прямые и раскидистые кустарники вырастают до 180 см в высоту. Побеги зеленого цвета покрыты восковым налетом. Количество шипов среднее. Они жесткие, но короткие, бурого цвета. Зеленая масса состоит из плоских и морщинистых листьев яркого зеленого цвета. Их размеры – крупные или средние. Количество корневой поросли – среднее.',
+  'description': 'Straight and spreading shrubs grow up to 180 cm in height. Green shoots are covered with a waxy coating. The number of spikes is average. They are tough, but short, brown in color. The green mass consists of flat and wrinkled leaves of bright green color. Their sizes are large or medium. The amount of root shoots is average.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100158_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 115,
-  'title': 'Малина Атлант',
+  'title': 'Raspberry Atlant',
   'price': 283,
   'discount_price': null,
-  'description': 'Мощные, но компактные кустарники садовой культуры достигают в высоту 140-160 сантиметров. Прямые побеги могут быть средними или толстыми. Характерная особенность – ветви с антоциановым оттенком. Среднерослые растения покрыты крупными и морщинистыми листьями темно-зеленого цвета. На стволах и побегах растут короткие и редкие шипы. ',
+  'description': 'Powerful but compact garden shrubs reach a height of 140-160 centimeters. Straight shoots can be medium or thick. A characteristic feature is the branches with an anthocyanin tint. Medium-sized plants are covered with large and wrinkled dark green leaves. Short and sparse thorns grow on the trunks and shoots.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100157_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 116,
-  'title': 'Жимолость Омега',
+  'title': 'Honeysuckle Omega',
   'price': 283,
   'discount_price': null,
-  'description': 'Куст среднерослый высотой до 1,5 м, крона округлая, плоская, густая. Ветки прямые неопушенные, густо покрытые листвой, однолетние слабо-розового оттенка. Лист крупного размера, удлиненный, овальной формы, плоский, ярко-зеленый. Почки распускаются ранней весной при повышении температуры воздуха до 0 градусов. Кустарник плодоносит около 30 лет. Ягоды крупные, весом 1 г, овальные удлиненные, с острой вершиной и бугристой поверхностью, сине-голубой окраски, кожица толстая с сильным восковым налетом. Мякоть волокнистая с нежным ароматом. Плоды хорошо перевозятся, но хранятся недолго — 2-3 дня.',
+  'description': 'The bush is medium-sized, up to 1.5 m high, the crown is round, flat, and dense. The branches are straight, pubescent, densely covered with foliage, annuals of a faint pink hue. The leaf is large, elongated, oval, flat, bright green. The buds bloom in early spring when the air temperature rises to 0 degrees. The shrub bears fruit for about 30 years. The berries are large, weighing 1 g, oval, elongated, with a sharp top and bumpy surface, blue-blue in color, thick skin with a strong waxy coating. The pulp is fibrous with a delicate aroma. The fruits are well transported, but are not stored for long - 2-3 days.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100154_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 117,
-  'title': 'Жимолость Бакчарская',
+  'title': 'Honeysuckle Bakcharskaya',
   'price': 283,
   'discount_price': null,
-  'description': 'Куст Бакчарской юбилейной жимолости среднерослый, вырастает на высоту 160–180 см, не очень раскидистый, овальной формы. Расцветка гладких без опушения побегов буро-красная, они растут прямо. Побеги одревесневают, что характерно для культуры. На ветках зеленая негустая листва, прямые листовые пластины средних размеров, овальные, матовые, средней степени опушения. Цветки небольшие, окрашены в бледно-желтый цвет. На ветвях завязи, а затем и плоды располагаются кучно, группами из многочисленных ягод, что повышает удобство сбора. Возможна механизированная уборка урожая. Бакчарская юбилейная отличается крупными плодами. В длину они дорастают до 3,3 см, в диаметре 1,2 см. Вес ягоды может варьироваться от 1,4 до 2,1 г. Они удлиненно-овальной формы, верхушка ягод округленная, они окрашены в темно-синий тон, есть восковой налет. Ягоды закреплены на ветвях средне, не осыпаются, а собирать их легко.',
+  'description': 'The Bakchar anniversary honeysuckle bush is medium-sized, grows to a height of 160–180 cm, not very spreading, oval in shape. The color of the smooth, pubescent shoots is brown-red, they grow straight. The shoots become woody, which is typical for the culture. The branches have sparse green foliage, straight leaf blades of medium size, oval, matte, with medium pubescence. The flowers are small and pale yellow. On the branches, the ovaries and then the fruits are arranged in a heap, in groups of numerous berries, which increases the convenience of picking. Mechanized harvesting is possible. Bakcharskaya Jubilee is distinguished by large fruits. They grow up to 3.3 cm in length and 1.2 cm in diameter. The weight of the berries can vary from 1.4 to 2.1 g. They are elongated oval in shape, the top of the berries is rounded, they are colored dark blue, there are waxy coating. The berries are moderately attached to the branches, do not fall off, and are easy to collect.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100153_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 118,
-  'title': 'Груша Северянка Краснощекая',
+  'title': 'Pear Northern Red-cheeked',
   'price': 398,
   'discount_price': null,
-  'description': 'Дерево среднерослое высотой до 6 м с густой пирамидальной кроной шириной до 4-6 м. Кора коричневая гладкая. Листья средние продолговатой формы заостренные блестящие и зеленые, край листа пильчатый. Цветки белые собраны в соцветия по 4-6 штук, отличаются высокой устойчивостью к заморозкам. Цветут рано — в апреле-мае. Продолжительность жизни дерева 40-60 лет. Некрупные, весом 135 г, гармоничной округлой формы. С веток снимают светло-желтыми с бурым румянцем, при созревании становятся желтыми с покрасневшими боками. Мякоть неплотная, нежная, мелкозернистая, очень сочная. Кожица гладкая плотная. Семена небольшие коричневые.',
+  'description': 'The tree is medium-sized, up to 6 m high, with a dense pyramidal crown up to 4-6 m wide. The bark is smooth brown. The leaves are medium-sized, oblong, pointed, shiny and green, the edge of the leaf is serrated. The white flowers are collected in inflorescences of 4-6 pieces and are highly resistant to frost. They bloom early - in April-May. The lifespan of a tree is 40-60 years. Small, weighing 135 g, harmonious round shape. When picked from the branches, they are light yellow with a brown blush; when ripe, they become yellow with reddened sides. The pulp is loose, tender, fine-grained, very juicy. The skin is smooth and dense. The seeds are small brown.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100152_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 119,
-  'title': 'Груша Мраморная',
+  'title': 'Pear Marble',
   'price': 398,
   'discount_price': null,
-  'description': 'Мраморная – это среднерослое дерево, высота которого обычно не превышает 4 метров. Загущенность листвой средняя, а крона по стандартам формируется широкопирамидальной. Кора серая, с зеленоватым отливом. Побегов немного, растут они вверх и обладают красновато-коричневым окрасом. Ветви Мраморной очень развиты, мощны, тип их роста – наклонно-вертикальный. ',
+  'description': 'Marble is a medium-sized tree, the height of which usually does not exceed 4 meters. The density of the foliage is average, and the crown is wide-pyramidal according to standards. The bark is gray, with a greenish tint. There are few shoots, they grow upward and have a reddish-brown color. The branches of Mramornaya are very developed, powerful, and their growth type is oblique-vertical.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100151_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 120,
-  'title': 'Груша Кафедральная',
+  'title': 'Pear Cathedral',
   'price': 398,
   'discount_price': null,
-  'description': 'Сорт груши Кафедральная считается летним, но период созревания может сильно варьироваться и зависит от погодных условий и количества солнечных теплых дней в течение лета. Поэтому урожай может созревать как в первой половине августа, так и под самый конец лета. Но уже к осени, как правило, деревья этого сорта успевают отплодоносить полностью.',
+  'description': 'The Cathedral pear variety is considered a summer variety, but the ripening period can vary greatly and depends on weather conditions and the number of sunny, warm days during the summer. Therefore, the harvest can ripen both in the first half of August and at the very end of summer. But by autumn, as a rule, trees of this variety have time to bear fruit in full.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100150_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 121,
-  'title': 'Абрикос Монастырский',
+  'title': 'Apricot Monastyrsky',
   'price': 501,
   'discount_price': null,
-  'description': 'Дерево абрикоса Монастырский среднерослое, растёт быстро, имеет шаровидную раскидистую среднегустую крону. Плодоносить оно начинает на третий-четвёртый год после прививки. Плоды имеют привлекательный внешний вид. У них овальная форма, жёлтый основной цвет кожуры с розовато-красным покрывным напылением. В отдельные годы румянец на плодах может отсутствовать. Кожица слегка опушённая. По данным Госреестра селекционных достижений, средний вес плода составляет 22 г. На основании многолетних наблюдений производителей сорта отмечалось, что в отдельные годы средний вес абрикоса равнялся 30–40 г, а у некоторых он превышал 50 г. Жёлтая сочная, мясистая мякоть имеет кисло-сладкий вкус и приятный аромат. Её отличительной чертой является небольшая мучнистость. Внутри плода находится крупная плоская косточка, которая довольно легко отделяется от фрукта. Абрикосы этого сорта универсальны в использовании: их употребляют свежими, они вкусны в вареньях и компотах.',
+  'description': 'The Monastyrsky apricot tree is medium-sized, grows quickly, has a spherical, spreading, medium-dense crown. It begins to bear fruit in the third or fourth year after grafting. The fruits have an attractive appearance. They have an oval shape, yellow main skin color with a pinkish-red coating. In some years, there may be no blush on the fruits. The skin is slightly pubescent. According to the State Register of Breeding Achievements, the average weight of the fruit is 22 g. Based on long-term observations of the variety’s producers, it was noted that in some years the average weight of apricot was 30–40 g, and for some it exceeded 50 g. The yellow, juicy, fleshy pulp has an acidic sweet taste and pleasant aroma. Its distinctive feature is a slight mealiness. Inside the fruit there is a large flat stone, which is quite easily separated from the fruit. Apricots of this variety are universal in use: they are consumed fresh, they are tasty in jams and compotes.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/100149_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 122,
-  'title': 'Роза Чайна герл',
+  'title': 'Rose China Girl',
   'price': 361,
   'discount_price': null,
-  'description': 'Автором сорта розы Чайна Герл (China Girl) является селекционер по фамилии Tantau, сорт выведен в 1995 г. Относится этот цветок к флорибундам. Не подходит для посадки на больших газонах – кусты высаживают лишь небольшими группами. Окраска цветка относится к жёлтой палитре с лимонным оттенком – жёлтый является главным оттенком, придавая яркости всему бутону.',
+  'description': 'The author of the China Girl rose variety is a breeder named Tantau, the variety was bred in 1995. This flower belongs to the floribundas. Not suitable for planting on large lawns - bushes are planted only in small groups. The color of the flower belongs to the yellow palette with a lemon tint - yellow is the main shade, giving brightness to the entire bud.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99033_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 123,
-  'title': 'Роза Хаммер',
+  'title': 'Rose Hammer',
   'price': 335,
   'discount_price': null,
-  'description': 'Культура Хаммер представляет собой среднерослое растение с прямостоячими крепкими побегами, которые вырастают до 80 см в высоту. Характеризуется декоративный куст небольшим количество шипов (на стебле можно наблюдать 4-6 колючек), густой кроной, состоящей из темно-изумрудных листьев с глянцевым блеском и выраженным жилкованием, а также развитым корневищем. За счет быстрого формирования боковых побегов и нарастания зеленой массы куст становится достаточно пышным – около 80 см в объеме. Весной на прочных цветоносах образуются одиночные пышные бутоны.',
+  'description': 'The Hammer culture is a medium-sized plant with erect, strong shoots that grow up to 80 cm in height. The ornamental bush is characterized by a small number of thorns (4-6 spines can be observed on the stem), a dense crown consisting of dark emerald leaves with a glossy sheen and pronounced venation, as well as a developed rhizome. Due to the rapid formation of side shoots and the growth of green mass, the bush becomes quite lush - about 80 cm in volume. In spring, single lush buds form on strong peduncles.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99032_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 124,
-  'title': 'Роза Четырех Ветров',
+  'title': 'Rose of the Four Winds',
   'price': 361,
   'discount_price': null,
-  'description': 'Популярный сорт коллекции Дельбара. Цветки розы диаметром до 12 см собраны из сотни лепестков насыщенного карминового цвета. Легкий аромат розы несет в себе фруктовые оттенки с древесными нотками. Сочно-зеленая листва почти не видна под обилием великолепных цветов. la rose des 4 vents отлично смотрится как в одиночных, так и в групповых посадках. Питомник «Delbard» основан в 1935 году во Франции садоводом и селекционером Жоржем Дельбаром. На протяжении десятилетий «Delbard» ведет активную селекционную работу по выведению новых сортов роз, отличающихся необычной окраской, ароматом и вкусом. Особый упор делается на устойчивость растений к болезням и неблагоприятным факторам среды. Интересно, что многие сорта роз Дельбара объединены в коллекции, самой популярной из которых является серия «Великие художники». В пестро-полосатых цветках словно оживают картины известнейших французских художников-импрессионистов. Сорта питомника «Дельбар» — настоящий эксклюзив, розоводы всего мира мечтают стать их счастливыми обладателями. Дело в том, что «Delbard» не продает лицензии на свои сорта, весь осадочный материал выращивает самостоятельно. Даже на родине, в самой Франции, этих роз не так много, поэтому они особо ценятся во всем мире. В России розы Дельбара известны не так давно, но уже полюбились многим садоводам и уверенно набирают популярность.',
+  'description': 'A popular variety in the Delbar collection. Rose flowers up to 12 cm in diameter are collected from hundreds of petals of rich carmine color. The light aroma of rose carries fruity shades with woody notes. The lush green foliage is almost invisible under the abundance of magnificent flowers. la rose des 4 vents looks great both in single and group plantings. The Delbard nursery was founded in 1935 in France by the gardener and breeder Georges Delbard. For decades, Delbard has been actively breeding to develop new varieties of roses that are distinguished by their unusual color, aroma and taste. Particular emphasis is placed on plant resistance to diseases and adverse environmental factors. Interestingly, many varieties of Delbar roses are combined into collections, the most popular of which is the “Great Artists” series. Paintings by the most famous French impressionist artists seem to come to life in the motley-striped flowers. The varieties of the Delbar nursery are truly exclusive; rose growers all over the world dream of becoming their happy owners. The fact is that Delbard does not sell licenses for its varieties; it grows all sedimentary material on its own. Even in their homeland, in France itself, there are not so many of these roses, so they are especially valued all over the world. Delbar roses have been known in Russia not so long ago, but they are already loved by many gardeners and are confidently gaining popularity.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99030_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 125,
-  'title': 'Роза Пич Аваланж',
+  'title': 'Rose Peach Avalange',
   'price': 335,
   'discount_price': null,
-  'description': 'Относят голландскую красавицу к группе чайных гибридов. Представляет она собой вертикальный сильнорослый куст, возвышающийся над землёй на 70-80 сантиметров. В ширину куст доходит до 60 сантиметров. Имеет среднюю по густоте облиственность листьями изумрудно-зелёного окраса с матовой поверхностью.',
+  'description': 'The Dutch beauty belongs to the group of tea hybrids. It is a vertical, vigorous bush, rising 70-80 centimeters above the ground. The width of the bush reaches 60 centimeters. It has medium dense foliage with emerald green leaves with a matte surface.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99067_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 126,
-  'title': 'Роза Парадиз',
+  'title': 'Rose Paradise',
   'price': 335,
   'discount_price': null,
-  'description': 'Роза Парадиз образует слаборазветвленные кусты с прямостоячими побегами высотой 90-120 см при ширине в 60-90 см. Облиственность стеблей средняя. На побегах присутствуют в большом количестве часто расположенные шипы. Листья плотные, темно-зеленые, с глянцевой поверхностью.',
+  'description': 'Rose Paradise forms slightly branched bushes with erect shoots 90-120 cm high and 60-90 cm wide. The foliage of the stems is average. There are a large number of frequently located thorns on the shoots. The leaves are dense, dark green, with a glossy surface.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99028_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 127,
-  'title': 'Роза Оранж энд Лемон',
+  'title': 'Rose Orange and Lemon',
   'price': 361,
   'discount_price': null,
-  'description': 'Культура относится к группе флорибунда, следовательно, имеет обильное и длительное цветение. Для сильных кустов роз характерны длинные, дуговидно поникающие побеги. В высоту растения могут достигать 100-150 см, а в ширину они до 100 см. Кусты хорошо облиственные, с крупными красно-пурпурными листьями, которые со временем меняют цвет на темно-зеленый. Молодые побеги имеют красный окрас, стебель покрыт немногочисленными шипами. Они, как и листья, сначала окрашены в красный цвет.',
+  'description': 'The culture belongs to the floribunda group, therefore, it has abundant and long-lasting flowering. Strong rose bushes are characterized by long, arched, drooping shoots. Plants can reach a height of 100-150 cm, and a width of up to 100 cm. The bushes are well leafy, with large red-purple leaves, which over time change color to dark green. Young shoots are red in color, the stem is covered with a few thorns. They, like the leaves, are initially colored red.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99027_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 128,
-  'title': 'Роза Николо Паганини',
+  'title': 'Rosa Nicolo Paganini',
   'price': 361,
   'discount_price': null,
-  'description': 'Великолепный сорт неизменно вызывает восхищение и желание обзавестись подобной классикой у тех садоводов, чьи коллекции не имеют Никколо Паганини. Особую декоративность культуре придают удивительно прекрасные, поистине идеальные в строении, форме лепестков и цветовой гамме, цветы.',
+  'description': 'This magnificent variety invariably evokes admiration and a desire to acquire such a classic among those gardeners whose collections do not have Niccolo Paganini. Surprisingly beautiful flowers, truly ideal in structure, petal shape and color scheme, add special decorative value to the culture.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99026_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 129,
-  'title': 'Роза Моника Белуччи',
+  'title': 'Rose Monica Bellucci',
   'price': 335,
   'discount_price': null,
-  'description': 'Роза Моника Беллуччи относится к чайно-гибридным. Предназначена в первую очередь на срезку, но и как штамбовая форма смотрится убедительно. Окраска бутона – кремовый с малиновыми полосами, окраска цветка – нежнейший карминово-розовый с бело-кремовой обратной стороной лепестков. Основным окрасом цветка считается розовый. Цветок считается насыщенным, ярким.',
+  'description': 'Rose Monica Bellucci is a hybrid tea. It is intended primarily for cutting, but also looks convincing as a standard form. The color of the bud is cream with crimson stripes, the color of the flower is the most delicate carmine pink with a white and cream back side of the petals. The main color of the flower is pink. The flower is considered rich and bright.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99025_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 130,
-  'title': 'Роза Ла Вилла Кота',
+  'title': 'Rosa La Villa Cota',
   'price': 388,
   'discount_price': null,
-  'description': 'Бутоны заостренной формы у этого сорта выделяются на клумбе темно-оранжево-красной окраской. Цветы, распускаясь, становятся медно-желто-оранжевыми, а обратная сторона у них кремово-розовая.',
+  'description': 'The pointed buds of this variety stand out in the flower bed with a dark orange-red color. The flowers become coppery-yellow-orange when they bloom, and the reverse side is creamy-pink.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99023_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 131,
-  'title': 'Роза Клод Брассер',
+  'title': 'Rose Claude Brasseur',
   'price': 335,
   'discount_price': null,
-  'description': 'Темно-фиолетовые бутоны со светлыми прожилками – один из ботанических признаков роз описываемого сорта. Цветы обладают сиренево-фиолетовым оттенком. У розы Клод Брассер бокаловидная форма бутонов, поэтому она так ценится на срезке.',
+  'description': 'Dark purple buds with light veins are one of the botanical characteristics of roses of the described variety. The flowers have a lilac-violet hue. The Claude Brasseur rose has goblet-shaped buds, which is why it is so prized as a cut flower.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99021_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 132,
-  'title': 'Роза Каралуна',
+  'title': 'Rose Caraluna',
   'price': 335,
   'discount_price': null,
-  'description': 'Эффектная пионовидная роза Каралуна — роскошный, садовый сорт с объёмными бутонами и  крупными, кружевными лепестками. Цветок выделяется благодаря сочному, оранжевому окрасу и пышной , зелёной листве темно-зеленого цвета. Сорт обладает очаровательными и невероятно пышными бутонами, собранными из множества мягких лепестков. Мягкие лепестки распускаются в два этапа. В начале внешний их слой держится более плотно, создавая «стакан» для внутренних махровых лепестков и желтых тычинок. В этот момент  цветок напоминает плотный бутон пиона,но чем дольше цветок стоит в воде, тем больше он раскрывается. Во второй, самой красивой фазе цветения,  лепестки полностью  расправляются, обнажая зелено-жёлтую середину. Вторая фаза цветения — это полностью распустившиеся розетки с зеленовато-желтой серединкой. Роза отлично  зимует, практически не болеет и цветёт  очень обильно  с начала лета до поздней осени. Цвет: насыщенный рыжий с зеленовато-желтым центром.',
+  'description': 'The spectacular peony rose Karaluna is a luxurious garden variety with voluminous buds and large, lacy petals. The flower stands out due to its rich, orange color and lush, dark green foliage. The variety has charming and incredibly lush buds, collected from many soft petals. The soft petals open in two stages. At the beginning, their outer layer holds more tightly, creating a “glass” for the inner double petals and yellow stamens. At this moment, the flower resembles a dense peony bud, but the longer the flower stands in the water, the more it opens. In the second, most beautiful phase of flowering, the petals fully expand, exposing the green-yellow center. The second phase of flowering is fully blossomed rosettes with a greenish-yellow center. The rose winters well, practically does not get sick and blooms very profusely from early summer to late autumn. Color: deep red with a greenish-yellow center.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99020_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 133,
-  'title': 'Роза Дюна',
+  'title': 'Rose Dune',
   'price': 388,
   'discount_price': null,
-  'description': 'Дюна относится к плетистой группе. По умолчанию она предназначена для контейнерного культивирования. Культура высокорослая, может подниматься до 2,5 м, а иногда и до 4 м. Ширина кустов достигает 2 м. Отмечается оптимальная пригодность этого растения к отечественным условиям выращивания.',
+  'description': 'Dune belongs to the climbing group. By default, it is intended for container cultivation. The crop is tall, can rise up to 2.5 m, and sometimes up to 4 m. The width of the bushes reaches 2 m. The optimal suitability of this plant for domestic growing conditions is noted.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99019_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 134,
-  'title': 'Роза Голден Медальен',
+  'title': 'Rose Golden Locket',
   'price': 335,
   'discount_price': null,
-  'description': 'Куст формируется с обычными пряморастущими побегами, высота его относительно небольшая – всего 60-75 см. Ширина кроны составляет 75 см. Листья стандартного размера, темно-зеленого оттенка, с блестящей верхней поверхностью.',
+  'description': 'The bush is formed with ordinary upright shoots, its height is relatively small - only 60-75 cm. The width of the crown is 75 cm. The leaves are of a standard size, dark green in color, with a shiny upper surface.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99017_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 2
 }, {
   'id': 135,
-  'title': 'Пояс для инструментов красный с тремя отделениями H301-22',
+  'title': 'Tool belt red with three compartments H301-22',
   'price': 422,
   'discount_price': null,
-  'description': 'Пояс для инструментов с карманами, в которые можно поместить ножницы, перчатки, пакетики с семенами, поэтому все, что нужно для работы в саду всегда будет под рукой.',
+  'description': 'A tool belt with pockets that can hold scissors, gloves, and seed packets, so everything you need for gardening will always be at hand.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102468_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 3
 }, {
   'id': 136,
-  'title': 'Пояс-фартук для садовых инструментов три кармана H301-17',
+  'title': 'Belt-apron for garden tools three pockets H301-17',
   'price': 660,
   'discount_price': null,
-  'description': 'Пояс для инструментов с карманами, в которые можно поместить ножницы, перчатки, пакетики с семенами, поэтому все, что нужно для работы в саду всегда будет под рукой. ',
+  'description': 'A tool belt with pockets that can hold scissors, gloves, and seed packets, so everything you need for gardening will always be at hand. ',
   'image': 'https://garden-zoo.ru/pictures/product/middle/102504_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 3
 }, {
   'id': 137,
-  'title': 'Перчатки х/б 5 нитей Точка черные',
+  'title': 'Cotton gloves 5 threads Dotka black',
   'price': 32,
   'discount_price': null,
-  'description': 'Перчатки вязаные чёрные с ПВХ-покрытием ладонной части "Точка". Для защиты рук от механических воздействий.\nСостав: хлопок + полиэфир. Обработка: машинный оверлок. 10 класс вязки.',
+  'description': 'Black knitted gloves with PVC coating on the palm part "Tochka". To protect hands from mechanical influences.\n' +
+    'Composition: cotton + polyester. Processing: machine overlock. 10th grade mating.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/99950_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 3
 }, {
   'id': 138,
-  'title': 'Сувенир Термометр Д-3-2 ТУ У',
+  'title': 'Souvenir Thermometer D-3-2 TU U',
   'price': 245,
   'discount_price': null,
-  'description': 'Дерево - это прекрасный материал, термометры из него не просто служат украшениями или показывают температуру, но и влияют на общую атмосферу помещения, наполняя его природной энергией. Термометры из дерева - это экологичные и безопасные аксессуары для вашего дома.',
+  'description': 'Wood is a wonderful material; thermometers made from it not only serve as decorations or show the temperature, but also affect the overall atmosphere of the room, filling it with natural energy. Wooden thermometers are environmentally friendly and safe accessories for your home.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/97408_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 3
 }, {
   'id': 139,
-  'title': 'Индикатор инкубаторный ИИ АКГ 2,822,057',
+  'title': 'Incubator indicator II AKG 2,822,057',
   'price': 123,
   'discount_price': null,
-  'description': 'Характеристики:',
+  'description': 'Characteristics:',
   'image': 'https://garden-zoo.ru/pictures/product/middle/97418_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
   'categoryId': 3
 }, {
   'id': 140,
-  'title': 'Термометр TС-7-М1 исп.7',
+  'title': 'Thermometer TS-7-M1 version 7',
   'price': 273,
   'discount_price': null,
-  'description': 'Назначение:\nТермометр ТС-7-М1, исп.7, вар.2. применяется для измерения температуры в холодильниках и морозильных камерах и в других местах, где необходимо соблюдение температуры в диапазоне от -35 до +50 °C.\nОсобенности исполнения - с поверкой.',
+  'description': 'Purpose:\n' +
+    'Thermometer TS-7-M1, version 7, version 2. used for measuring temperatures in refrigerators and freezers and in other places where it is necessary to maintain temperatures in the range from -35 to +50 °C.\n' +
+    'Features of execution - with verification.',
   'image': 'https://garden-zoo.ru/pictures/product/middle/97421_middle.jpg',
   'createdAt': '2022-10-02T14:43:29.000Z',
   'updatedAt': '2022-10-02T14:43:29.000Z',
